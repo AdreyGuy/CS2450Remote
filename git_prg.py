@@ -1,15 +1,20 @@
 def guess_age():
-    int inp
     inp = input("Greetings, I will try to guess your age. Please, type your name: ")
-    for i in range(15, 30):
-        str inpu = input("Are you" + i + "?")
-        if inpu == y:
-            print(inp + "is" + inpu)
+    for i in range(15, 31):
+        inpu = input("Are you " + str(i) + "? - ")
+        if inpu == 'y':
+            print(inp + " is " + str(i))
             return
         else:
             print("Rats")
-        return
+    return
 guess_age()
+        
+        
+        
+        
+    
+
         
         
         
