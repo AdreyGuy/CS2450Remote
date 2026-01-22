@@ -5,7 +5,7 @@ def guess_age():
         if inpu == 'y':
             print(inp + " is " + str(i))
             return
-        else:
+        elif inpu == 'n':
             print("Rats")
     return
 guess_age()
