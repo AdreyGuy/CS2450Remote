@@ -9,7 +9,12 @@ def ....(): } the first line contains path, upon its request on the website, the
 HTML files seem to contain a lot of one/two-symbol variables or functions? I need to learn more about its syntax.
 Project manager needs to be truly smart about building software to understand what customer/investor wants from the product and then correctly write docs for programmers.
 
-Date: 2.16.26
+Date: 2.16.26 - Subject: Github and code practices
 
 If I only have one branch in my local repository, but my remote repository has two - I need to merge it into the main branch by making a request on the github's website before I can pull changes
 diagrams.net is a great tool to visualize functions before writing code for them
+
+Date: 2.24.26 - Subject: AI detector and cybersecurity
+
+TruthScan could be a good image-generated detector, but the website still needs an option for us to handle "false positives" and "false negatives". Music might need to go through screening of an actual person.
+
