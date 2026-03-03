@@ -18,3 +18,7 @@ Date: 2.24.26 - Subject: AI detector and cybersecurity
 
 TruthScan could be a good image-generated detector, but the website still needs an option for us to handle "false positives" and "false negatives". Music might need to go through screening of an actual person.
 
+Date: 3/3/26 - Subject: Soft skills
+
+Pushing our Github "issues" that are user stories to the project's items is not a great idea since ToDo list of items should include very clear and condensed instructions.
+Employers value soft skills that involve team work, communication, and self-awareness. I am guessing they hire you based on your IT skills but keep you based on the development of those soft skills.
