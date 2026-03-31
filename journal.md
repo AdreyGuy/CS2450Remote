@@ -25,4 +25,7 @@ Employers value soft skills that involve team work, communication, and self-awar
 
 Date: 3/19/26 - Subject: Ethics
 Sometimes, maintenance of software for big companies is like a trolley problem - do you pull a lever to fix a problem for one group of people just to cause another one instead for other groups?
+
+Date: 3/31/26 - Subject: Testing
+Selenium is the perfect way to test websites, especially checking if visual elements are rendered properly as originally intended - takes a split of a second to check the result.
  
