@@ -29,3 +29,10 @@ Sometimes, maintenance of software for big companies is like a trolley problem -
 Date: 3/31/26 - Subject: Testing
 Selenium is the perfect way to test websites, especially checking if visual elements are rendered properly as originally intended - takes a split of a second to check the result.
  
+Date: 4/7/26 - Subject: Refactoring
+One thing I realized with the second python file from the homework is that typing nested if loops may make it easier and faster to integrate the correct logic in a moment, but also makes it highly unreadable and difficult to change
+while preserving the same logic.
+
+Date 4/14/26 - Subject: Automated testing
+GitHub actions tab allows you to create your own workflow by creating an yml file for a chosen branch. However, the problem is that my python test file I run through selenium gets a timeout error.
+Not sure why, it worked for my group mate on his branch with his test files.
