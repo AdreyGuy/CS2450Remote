@@ -36,3 +36,9 @@ while preserving the same logic.
 Date 4/14/26 - Subject: Automated testing
 GitHub actions tab allows you to create your own workflow by creating an yml file for a chosen branch. However, the problem is that my python test file I run through selenium gets a timeout error.
 Not sure why, it worked for my group mate on his branch with his test files.
+
+Date 4/21/26 - Subject: AI Training
+Google Cloud has Enterprise version of Gemini called Vertex AI. I used AutoML with single-labeled image identification to train it on a dataset of 30 different images to
+make it capable of identifying AI-generated images. I had to train a new version twice on top of each previous model to make sure it doesn't label AI as real and vice-versa.
+The model then needs to be deployed to an endpoint located in Iowa (not sure why there specifically). The deployment charges my account credits per hour, so I have to undeploy
+it when our social media platform is not used.
